@@ -1,0 +1,6 @@
+C:\Users\BishopPC\source\repos\DeadManBackup\DeadManBackup\bin\Debug\DeadManBackup.exe.config
+C:\Users\BishopPC\source\repos\DeadManBackup\DeadManBackup\bin\Debug\DeadManBackup.exe
+C:\Users\BishopPC\source\repos\DeadManBackup\DeadManBackup\bin\Debug\DeadManBackup.pdb
+C:\Users\BishopPC\source\repos\DeadManBackup\DeadManBackup\obj\Debug\DeadManBackup.csproj.CoreCompileInputs.cache
+C:\Users\BishopPC\source\repos\DeadManBackup\DeadManBackup\obj\Debug\DeadManBackup.exe
+C:\Users\BishopPC\source\repos\DeadManBackup\DeadManBackup\obj\Debug\DeadManBackup.pdb

@@ -1,0 +1,14 @@
+C:\Users\BishopPC\source\repos\DeadManBackup\DeadManBackup\bin\Release\DeadManBackup.exe.config
+C:\Users\BishopPC\source\repos\DeadManBackup\DeadManBackup\bin\Release\DeadManBackup.exe
+C:\Users\BishopPC\source\repos\DeadManBackup\DeadManBackup\bin\Release\DeadManBackup.pdb
+C:\Users\BishopPC\source\repos\DeadManBackup\DeadManBackup\obj\Release\DeadManBackup.csproj.CoreCompileInputs.cache
+C:\Users\BishopPC\source\repos\DeadManBackup\DeadManBackup\obj\Release\DeadManBackup.exe
+C:\Users\BishopPC\source\repos\DeadManBackup\DeadManBackup\obj\Release\DeadManBackup.pdb
+C:\Users\BishopPC\source\repos\DeadManBackup\DeadManBackup\obj\Release\DeadManBackup.csprojResolveAssemblyReference.cache
+C:\Codigo\DeadManBackup\DeadManBackup\bin\Release\DeadManBackup.exe.config
+C:\Codigo\DeadManBackup\DeadManBackup\bin\Release\DeadManBackup.exe
+C:\Codigo\DeadManBackup\DeadManBackup\bin\Release\DeadManBackup.pdb
+C:\Codigo\DeadManBackup\DeadManBackup\obj\Release\DeadManBackup.csprojResolveAssemblyReference.cache
+C:\Codigo\DeadManBackup\DeadManBackup\obj\Release\DeadManBackup.csproj.CoreCompileInputs.cache
+C:\Codigo\DeadManBackup\DeadManBackup\obj\Release\DeadManBackup.exe
+C:\Codigo\DeadManBackup\DeadManBackup\obj\Release\DeadManBackup.pdb

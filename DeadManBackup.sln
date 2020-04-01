@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2024
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeadManBackup", "DeadManBackup\DeadManBackup.csproj", "{ED4AC785-1F1C-4A28-89E8-4CEE833D6BA4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED4AC785-1F1C-4A28-89E8-4CEE833D6BA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED4AC785-1F1C-4A28-89E8-4CEE833D6BA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED4AC785-1F1C-4A28-89E8-4CEE833D6BA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED4AC785-1F1C-4A28-89E8-4CEE833D6BA4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F45F52AA-EE4D-428F-A841-48AB85899883}
+	EndGlobalSection
+EndGlobal
